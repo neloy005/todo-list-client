@@ -1,0 +1,10 @@
+.task-form input {
+    width: 50%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.task-form textarea {
+    width: 50%;
+    min-height: 200px;
+}
