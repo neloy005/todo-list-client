@@ -21,7 +21,7 @@ const Login = () => {
 
     return (
         <div>
-            <h2>Login with your google account:</h2>
+            <h2>Login first with your google account:</h2>
             <div onClick={() => signInWithGoogle()} className='google-login-container'>
                 <span>Login with google</span>
             </div>

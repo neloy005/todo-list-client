@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div>
             <h1 style={{ 'marginTop': '100px' }}>Welcome to Todo List.</h1>
-            <h2>Please Login to start listing</h2>
+            <h2>Goto List and start listing NOW!</h2>
         </div>
     );
 };
